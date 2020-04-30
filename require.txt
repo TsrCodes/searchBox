@@ -1,0 +1,9 @@
+ <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+  we need to get the icon from font awesome by using above link
+
+
+  <i class="fa fa-search"></i>
+  & this is search icon 
